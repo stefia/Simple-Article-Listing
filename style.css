@@ -49,7 +49,7 @@ body {
     display: flex; 
     flex-direction: column; 
     justify-content: center;
-    gap: 15x;
+    gap: 14px;
     max-width: 520px;
 }
 
