@@ -34,6 +34,8 @@ body {
 }
 
 .articles__title {
+    max-width: 600px;
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -59,8 +61,8 @@ body {
 }
 
 .card__img {
-    width: 150px;            
-    height: 150px;                  
+    width: 160px;            
+    height: 160px;                  
     object-fit: cover;              
     border-radius: 10px;
 }
